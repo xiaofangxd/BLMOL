@@ -6,7 +6,7 @@ Source code for the paper "**[Bi-Level Multiobjective Evolutionary Learning: A C
 ](https://ieeexplore.ieee.org/abstract/document/10065594)**".
 
 
-We present a bi-level multiobjective learning framework (BLMOL), coupling the above decision-making process with the optimization process of the upper-level MOP (UL-MOP) by introducing LL preference r. 
+We present a bi-level multiobjective learning framework (BLMOL), coupling the decision-making process with the optimization process of the upper-level MOP (UL-MOP) by introducing LL preference r. 
 
 We consider a novel case study on multitask graph neural topology search. It aims to find a set of Pareto topologies and their Pareto weights, representing different tradeoffs across tasks at UL and LL, respectively. The found graph neural network is employed to solve multiple tasks simultaneously, including graph classification, node classification, and link prediction.
 
