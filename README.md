@@ -13,11 +13,16 @@ We consider a novel case study on multitask graph neural topology search. It aim
 
 ## Running
 
-1. python gen_surr_data.py                    # Generate the surrogate data;
-2. python con_surr_model.py                   # Construct surrogate models;
-3. python search.py                           # Evolutionary search with surrogate models;
+# Generate the surrogate data
+1. python gen_surr_data.py
 
-In this code: 
+# Construct surrogate models
+2. python con_surr_model.py
+
+# Evolutionary search with surrogate models                   
+3. python search.py
+                         
+In the code: 
   NSGAII, a powerful MOEA, is employed to optimize UL objectives in BLMOL. 
   LS, a popular GPMOA, is embedded in BLMOL for training weights.
 
