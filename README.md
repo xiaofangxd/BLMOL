@@ -1,6 +1,6 @@
 
 
-# Bi-level multiobjective learning framework
+# Bi-level Multiobjective Learning Framework
 
 Source code for the paper "**[Bi-Level Multiobjective Evolutionary Learning: A Case Study on Multitask Graph Neural Topology Search
 ](https://ieeexplore.ieee.org/abstract/document/10065594)**".
